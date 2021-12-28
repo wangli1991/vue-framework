@@ -2,8 +2,9 @@
  * @Author: WangLi
  * @Date: 2021-12-27 15:42:41
  * @LastEditors: WangLi
- * @LastEditTime: 2021-12-27 16:18:10
+ * @LastEditTime: 2021-12-28 09:12:09
 -->
+
 <template>
   <router-view />
 </template>
